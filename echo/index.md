@@ -9,7 +9,7 @@ title: Privacy Policy — Echo Music Player
 **Developer:** KaKooApps  
 **App:** Echo - Music Player  
 **Package:** com.kakoo.apps.echo  
-**Contact:** kakoo.apps@gmail.com
+**Contact:** kakooapps@gmail.com
 
 ---
 
